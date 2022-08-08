@@ -1,3 +1,8 @@
+#There is a shop that offers a free Biscuit if you buy 2 Biscuits form there 
+#Define a Function that calculates the price if a certain amount of Biscuits Example : If you want to take 11 Biscuits then the price should be 40
+#Take the number of Biscuits as input from the user 
+
+
 def biscuit():
     num = int(input('>'))
     free = 0
